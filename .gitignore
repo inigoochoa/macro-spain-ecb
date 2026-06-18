@@ -1,0 +1,18 @@
+# Datos descargados
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Entornos
+.venv/
+env/
+
+# macOS
+.DS_Store
