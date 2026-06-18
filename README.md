@@ -2,8 +2,7 @@
 
 Análisis del ciclo de subidas de tipos del Banco Central Europeo entre 2022 y 2024 y su transmisión al crédito, la inflación y el empleo en España. Los datos se obtienen directamente de la API del BCE (datasets MIR, FM, HICP y LFSI).
 
-🔗 **[Ver app interactiva en Streamlit](https://inigoochoa-macro-spain-ecb.streamlit.app)** *(enlace disponible tras el despliegue)*
-
+🔗 **[Ver app interactiva en Streamlit](https://macro-spain-ecb.streamlit.app/)**
 ## Datos
 
 Fuente: [API del BCE](https://data-api.ecb.europa.eu). Período de análisis: enero 2022 – diciembre 2024.
